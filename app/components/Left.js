@@ -9,8 +9,8 @@ function Left(props){
     <div className = {styles["pane-med"] + " " + buttonstyle.sidebar}>
 
       {/* probably want some stuff here */}
-    <Tree />
     <List />
+    <Tree />
     </div>
   )
 }

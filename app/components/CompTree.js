@@ -7,7 +7,7 @@ function Tree(props){
     <div className = {treeStyles.container}>
       <header className = {treeStyles.header}>
 
-        <h1 className={styles.title + ' ' + treeStyles.title}>Components</h1>
+        <h1 className={styles.title + ' ' + treeStyles.title}>Component Tree</h1>
       </header>
       <div className = {treeStyles.main}>
         {/* stuff goes here */}
