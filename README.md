@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # electron-react-boilerplate
 
 ### A Boilerplate for Scalable Cross-Platform Desktop Apps
@@ -332,3 +333,6 @@ MIT © [C. T. Lin](https://github.com/chentsulin)
 [appveyor-url]: https://ci.appveyor.com/project/chentsulin/electron-react-boilerplate/branch/master
 [david_img]: https://img.shields.io/david/chentsulin/electron-react-boilerplate.svg
 [david_site]: https://david-dm.org/chentsulin/electron-react-boilerplate
+=======
+# Fermion
+>>>>>>> 2fb992d5958f4ec5feb8c8b34f802de14f2d6e52
