@@ -12,6 +12,8 @@ export default class Home extends Component {
             <h2 className={photon["text-center"]}>Welcome to Fermion.</h2>
             <div className = {photon["text-center"] + ' ' + styles.link}>
               <Link to="/core">Get to Prototyping</Link>
+              <br />
+              <Link to="/dragdemo">Go to Drag Demo</Link>
             </div>
           </div>
         </div>
